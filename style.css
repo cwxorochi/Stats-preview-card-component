@@ -79,6 +79,7 @@ body {
   font-size: 1.6rem;
   letter-spacing: 1px;
   padding-bottom: 5px;
+  font-weight: bold;
 }
 
 .card .statistic .label {
